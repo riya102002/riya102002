@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, MySQL**
 
-- 👨‍💻 Find what I'm up to [https://utkarsh140503.github.io/Portfolio/](https://utkarsh140503.github.io/Portfolio/)
+- 👨‍💻 Find what I'm up to [https://riya102002.github.io/Portfolio/](https://riya102002.github.io/Portfolio/)
 
 - 💬 Ask me about **JAVA, Machine Learning**
 
